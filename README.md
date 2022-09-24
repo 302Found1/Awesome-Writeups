@@ -15,8 +15,7 @@
  - [Race Condition](https://github.com/302Found1/Awesome-Writeups//blob/master/README.md#race-condition)
  - [Remote Code Execution (RCE)](https://github.com/302Found1/Awesome-Writeups/#remote-code-execution-rce)
  - [Android Pentesting](https://github.com/302Found1/Awesome-Writeups/#android-pentesting) 
- - [Contributing](https://github.com/302Found1/Awesome-Writeups/#contributing)
- - [Maintainers](https://github.com/302Found1/Awesome-Writeups/#maintainers)
+ - [iOS Pentesting](https://github.com/302Found1/Awesome-Writeups/#ios-pentesting) 
 
 
 
@@ -672,3 +671,14 @@
 ## Android Pentesting
 
 - [Android Pentesting Lab (Step by Step guide for beginners!)](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
+- [Basic Security Testing] (https://github.com/OWASP/owasp-mastg/blob/master/Document/0x06b-Basic-Security-Testing.md)
+- [Android Pentest Checklist](https://mobexler.com/checklist.htm#android)
+## iOS Pentesting
+
+- [MacOS on VMWare](https://techbland.com/install-macos-catalina-on-vmware-windows/)
+- [Installing IPA file(https://medium.com/mii-cybersec/another-way-install-ipa-file-537b35d78174)
+- [Jailbreaking a device](https://medium.com/@utsaviudani/jailbreak-an-idevice-simplified-with-windows-563616f7525)
+- [IPA File Extraction](https://shank-s.medium.com/ipa-file-extraction-using-jailbroken-iphone-3807f719a252)
+- [iOS Hacking Guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
+- [TouchID Authentication Bypass](https://medium.com/@pig.wig45/touch-id-authentication-bypass-on-evernote-and-dropbox-ios-apps-7985219767b2)
+- [iOS Pentest Checklist](https://mobexler.com/checklist.htm#ios)
