@@ -676,7 +676,7 @@
 ## iOS Pentesting
 
 - [MacOS on VMWare](https://techbland.com/install-macos-catalina-on-vmware-windows/)
-- [Installing IPA file(https://medium.com/mii-cybersec/another-way-install-ipa-file-537b35d78174)
+- [Installing IPA file](https://medium.com/mii-cybersec/another-way-install-ipa-file-537b35d78174)
 - [Jailbreaking a device](https://medium.com/@utsaviudani/jailbreak-an-idevice-simplified-with-windows-563616f7525)
 - [IPA File Extraction](https://shank-s.medium.com/ipa-file-extraction-using-jailbroken-iphone-3807f719a252)
 - [iOS Hacking Guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
