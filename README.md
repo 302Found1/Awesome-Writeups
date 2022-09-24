@@ -1,22 +1,22 @@
 ## Contents 
 
- - [Cross Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
- - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
- - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
- - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#local-file-inclusion-lfi)
- - [Subdomain Takeover](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#subdomain-takeover)
- - [Denial of Service (DOS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#denial-of-service-dos)
- - [Authentication Bypass](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#authentication-bypass)
- - [SQL injection](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#sql-injectionsqli)
- - [Insecure Direct Object Reference (IDOR)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#insecure-direct-object-reference-idor)
- - [2FA Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#2fa-related-issues) 
- - [CORS Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cors-related-issues)
- - [Server Side Request Forgery (SSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#server-side-request-forgery-ssrf)
- - [Race Condition](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#race-condition)
- - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)
- - [Android Pentesting](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#android-pentesting) 
- - [Contributing](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#contributing)
- - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
+ - [Cross Site Scripting (XSS)](https://github.com/302Found1/Awesome-Writeups/#cross-site-scripting-xss)
+ - [Cross Site Request Forgery (CSRF)](https://github.com/302Found1/Awesome-Writeups/#cross-site-request-forgery-csrf)
+ - [Clickjacking (UI Redressing Attack)](https://github.com/302Found1/Awesome-Writeups/#clickjacking-ui-redressing-attack)
+ - [Local File Inclusion (LFI)](https://github.com/302Found1/Awesome-Writeups/#local-file-inclusion-lfi)
+ - [Subdomain Takeover](https://github.com/302Found1/Awesome-Writeups/#subdomain-takeover)
+ - [Denial of Service (DOS)](https://github.com/302Found1/Awesome-Writeups/#denial-of-service-dos)
+ - [Authentication Bypass](https://github.com/302Found1/Awesome-Writeups/#authentication-bypass)
+ - [SQL injection](https://github.com/302Found1/Awesome-Writeups/#sql-injectionsqli)
+ - [Insecure Direct Object Reference (IDOR)](https://github.com/302Found1/Awesome-Writeups/#insecure-direct-object-reference-idor)
+ - [2FA Related issues](https://github.com/302Found1/Awesome-Writeups/#2fa-related-issues) 
+ - [CORS Related issues](https://github.com/302Found1/Awesome-Writeups/#cors-related-issues)
+ - [Server Side Request Forgery (SSRF)](https://github.com/302Found1/Awesome-Writeups//blob/master/README.md#server-side-request-forgery-ssrf)
+ - [Race Condition](https://github.com/302Found1/Awesome-Writeups//blob/master/README.md#race-condition)
+ - [Remote Code Execution (RCE)](https://github.com/302Found1/Awesome-Writeups/#remote-code-execution-rce)
+ - [Android Pentesting](https://github.com/302Found1/Awesome-Writeups/#android-pentesting) 
+ - [Contributing](https://github.com/302Found1/Awesome-Writeups/#contributing)
+ - [Maintainers](https://github.com/302Found1/Awesome-Writeups/#maintainers)
 
 
 
@@ -672,15 +672,3 @@
 ## Android Pentesting
 
 - [Android Pentesting Lab (Step by Step guide for beginners!)](https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0)
-
-## Contributing 
-- Open Pull Requests
-- Send me links of writeups to My Twitter : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
-
-
-## Maintainers 
-
-`This Repo is maintained by : `
-
-- [devanshbatham](https://github.com/devanshbatham)
-- [e13v3n-0xb](https://github.com/e13v3n-0xb)
